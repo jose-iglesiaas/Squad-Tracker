@@ -7,7 +7,6 @@ SquadTracker is a simple web-based training log designed for sports coaches. It 
 **Note on complexity:** This is a beginner project. There is no database or complex backend architecture yet, as I am currently learning the core concepts of PHP. 
 
 The application's interface and outputs are entirely in Spanish.
-CSS is coming soon!
 
 ## Features
 - Form data processing using PHP (`$_POST`, `isset`, `empty`).
@@ -16,5 +15,5 @@ CSS is coming soon!
 - Clean and semantic HTML5 structure (Styling pending).
 
 ## Built With
-- **Frontend:** HTML5 (CSS coming soon!)
+- **Frontend:** HTML5, CSS
 - **Backend:** PHP 8 (No DB)

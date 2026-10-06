@@ -48,6 +48,8 @@ switch ($numMsg) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SquadTracker</title>
+    <link rel="shortcut icon" href="../img/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <header>
@@ -55,6 +57,7 @@ switch ($numMsg) {
     </header>
     <main>
         <h2><?= $msg ?></h2>
+        <h2>Entrenamiento día <?= date("d-m-y") ?></h2>
         <section>
             <h3>Participantes</h3>
             <ul>
@@ -106,7 +109,7 @@ switch ($numMsg) {
         </section>
     </main>
     <footer>
-        <p>Made by José Iglesias Hernández</p>
+        Made by José Iglesias Hernández<a href="https://jose-iglesiaas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="../img/ico.png"></a></p>
     </footer>
 </body>
 </html>
