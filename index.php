@@ -65,7 +65,7 @@
         </form>
     </main>
     <footer>
-        Made by José Iglesias Hernández<a href="https://jose-iglesiaas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="img/ico.png"></a></p>
+        Made by José Iglesias Hernández<a href="https://jose-iglesiaas.github.io/" target="_blank" rel="noopener noreferrer"> <img src="img/ico.png"></a>
     </footer>
 </body>
 </html>
